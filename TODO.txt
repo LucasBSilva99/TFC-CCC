@@ -1,0 +1,110 @@
+Suportar vários tipos de Eventos (DONE)
+Registo de Membro (DONE)
+Tornar um membro num Admin (DONE)
+Aprovar um registo de um membro (DONE)
+Criação de um Evento (DONE)
+Criação de uma atividade (DONE)
+Hiperligação das funcionalidades da homepage do admin (DONE)
+Tornar um membro num Admin, quando a lista esta vazia: Retirar tabela, e adicionar frase que todos os membros estao aprovados (DONE)
+Pesquisa de eventos (4 campos: tipo, nome, localização e data) - com procura - geral (DONE)
+Criar na base de dados tabela do plafond - adicionar registos desde 2017 com 50 euros - geral (DONE)
+Dividir atividades no registo de evento (adicionar 2 predefinidas e um botão de add para adicionar outro campo) - geral (DONE)
+(DONE) Botão Para retirar Campo de Input de Atividade 
+(DONE)Criar na base de dados tabela do plafond - adicionar registos desde 2017 com 50 euros - geral 
+(DONE)Inscrição num Evento - membro
+(DONE)Dividir atividades no registo de evento (adicionar 2 predefinidas e um botão de add para adicionar outro campo) - geral 
+(DONE)Pesquisa de eventos (4 campos: tipo, nome, localização e data) - com procura - geral 
+(DONE)Hiperligação das funcionalidades da homepage do admin - admin 
+(DONE)Tornar um membro num Admin, quando a lista esta vazia: Retirar tabela, e adicionar frase que todos os membros estao aprovados - admin 
+(DONE) ** Meu Historico de provas (dinheiro gasto em cada prova) - global
+(DONE) ** Pesquisa de Evento - Nome, Localização, Data
+(DONE) ** Página Login 
+(DONE)** Re-organizar  Toolbar
+(DONE)** Index para logins e registos
+(DONE)** Ordenar actividades por data/data de registo
+(DONE)** Filtrar provas do membro
+(DONE)** Não aceitar carateres em campos numéricos nos inputs
+(DONE - Para cada ano mostrar Nr de inscrições, Nr de Provas, Plafond gasto, Top 3 de provas mais inscritas, Bottom 3 de provas com menos incritos)
+(DONE) Por total spent em vez de spent nas tabelas
+(DONE) Simplificar títulos/nomes das tabelas (Number - Nr)
+(DONE) Ordenar eventos por deadline (mostrar só eventos futuros)
+(DONE)Adicionar Total dos vários anos na tabela de inscrições
+(DONE) *Index ter tabela com as próximas 3 provas (Lisboa/Porto)
+(DONE) Filtros Ocupar Metade (Ficarem lado a lado)
+(DONE) Adicionar Os restantes Links à tab
+(DONE) ** Aprovar uma inscrição de um membro num evento (dizer se tem plafond disponivel - verde suficiente, vermelho nao) - admin 
+(DONE) ** Dismiss da inscrição a activivade ter um pop-up (Só falta Retirar a inscrição dos dados do utilizador)
+(DONE)Tornar um Admin num membro
+
+** Página simples de estatisticas - tabela com numero de provas e inscrições por ano - global
+   *Média de inscriçoes por Ano,Máx/Mín,Desvio Padrão (Na tabela existente)
+(DONE)**Estatísticas     *Pelo menos 2 gráficos (2º Histograma Semestres/Incrições) + Um gráfico
+
+MEMBRO/obg:
+
+(DONE)Inscrição num Evento
+(DONE)Pesquisa de Evento - Nome, Localização, Data 
+Na parte dos eventos, mostrar so eventos futuros, e filtro para mostrar antigos
+
+
+MEMBRO/obg-:
+
+Proposta de Evento
+Escolha das Atividades Preferenciais
+
+---------------------
+
+ADMIN/obg:
+
+Aprovar uma inscrição de um membro num evento (dizer se tem plafond disponivel - verde suficiente, vermelho nao)
+Editar dados de eventos (eventos ainda nao realizados)
+
+
+Admin/obg-:
+Aprovação de uma proposta de evento
+* Editar dados de eventos (eventos ainda nao realizados) - admin
+
+---------------------
+
+Geral/obg:
+
+(DONE)Página Login
+(DONE)Re-organizar Tab Dos links
+(DONE)Mostrar plafond total neste ano na navbar
+Página simples de estatisticas - tabela com numero de provas e inscrições por ano 
+(DONE)Meu Historico de provas (dinheiro gasto em cada prova)
+Não aceitar carateres em campos numéricos nos inputs
+(DONE) Botão Para retirar Campo de Input de Atividade 
+
+Geral/obg-:
+Pagina de lista de eventos: adicionar filtro eventos passado/futuro
+Ordenar tabelas (por clique na coluna)
+Indentificar campos obrigatorios com *
+*Index ter um gráfico (Nr membros ativos/Ano)
+
+
+----------------------------
+
+Membro/opc:
+Alteração de Dados do Registo
+
+ADMIN/opc:
+Gestão de membros
+
+
+Ordem (Dia 17 Julho)
+
+Fazer vídeo da demo
+(DONE)** Manter sessão após login
+
+(DONE)**Pág. para mostrar os inscritos de uma prova.
+(REVER)* Alteração de Dados do Registo - memb/opc (conseguir editar tudo) 
+
+------
+Detalhes a Alterar:
+
+Esconder botão quando se regista no evento e por "pedido efetuado" ou "pedido aceite" 
+Events Search mais um coluna com link para a Linha 101
+(DONE)Mudar no membro home inicial Statistics para check Statistics, View Event History 
+(DONE)Mudar Admin Register para Promote Admin
+(DONE)Diminuir Espaço utilizado pelo cabeçalho
